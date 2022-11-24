@@ -1,2 +1,4 @@
-# MasterThesis
-Repository to the Master Thesis: Deep Convolutional Neural Networks for Cryptocurrencies on Binance
+# Deep Convolutional Neural Networks for Cryptocurrencies on Binance
+Repository to the Master Thesis of Nils Martens
+
+
